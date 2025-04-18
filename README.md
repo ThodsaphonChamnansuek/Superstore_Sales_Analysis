@@ -41,3 +41,14 @@ The dataset used is `Superstore.csv`, which contains information such as:
    ```bash
    git clone https://github.com/your-username/superstore-sales-analysis.git
    cd superstore-sales-analysis
+
+---
+
+## 💬 Contact
+
+If you're hiring or interested in a collaboration, feel free to reach out!
+
+- 📧 [Email](mailto:thodsaphol.cha@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355)   
+- 🌐 [myportfolio](https://github.com/ThodsaphonChamnansuek/my_portfolio.git)
+
