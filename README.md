@@ -37,14 +37,14 @@ The dataset used is `Superstore.csv`, which contains information such as:
 
 ## ▶️ How to Run
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/superstore-sales-analysis.git
 cd superstore-sales-analysis
 
-# 2. Install required packages (recommended to use virtual env)
+2. Install required packages (recommended to use virtual env)
 pip install -r requirements.txt
 
-# 3. Run the analysis script
+3. Run the analysis script
 python superstore_analysis.py
 
 
