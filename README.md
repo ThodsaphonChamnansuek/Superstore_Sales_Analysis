@@ -50,7 +50,7 @@ python superstore_analysis.py
 
  ---
  ## 📸 Demo 
-![Monthly Sales 2017](images/monthly_sales_2017)
+![Monthly Sales 2017](images/monthly_sales_2017.jpg)
 
 ---
 
